@@ -6,18 +6,10 @@ echo "======================"
 echo "installing common application"
 brew install rectangle
 brew install clipy
-brew install discord
-brew install pushplaylabs-sidekick
-brew install android-file-transfer
-mas install 1429033973 # RunCat
+brew install brave-browser
 
-echo "installing dev tool"
-brew install fig
-fig install --input-method
-brew install postman-agent
-brew install postgresql
-brew services start postgresql
-mas install 1483172210 # Free Ruler
+echo "installing from AppStore"
+mas install 539883307 # LINE
 
 echo "======================"
 echo "  dev-utilities end    "
