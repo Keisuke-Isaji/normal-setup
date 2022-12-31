@@ -1,5 +1,5 @@
 ```shell
-git clone https://github.com/SuZu008006/workstation-setup.git
-cd workstation-setup
+git clone https://github.com/Keisuke-Isaji/normal-setup.git
+cd normal-setup
 ./setup.sh
 ```
